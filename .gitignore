@@ -131,3 +131,4 @@ dmypy.json
 #Videos
 /PoseEstimationProject/PoseVideos
 /FaceDetectionProject/Videos
+/FaceMeshProject/Videos
