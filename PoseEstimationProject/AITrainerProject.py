@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 import PoseModule as pm
-cap = cv2.VideoCapture("ITrainer/curls.mp4")
+cap = cv2.VideoCapture("AITrainer/curls.mp4")
 detector = pm.poseDetector()
 count = 0
 dir = 0
