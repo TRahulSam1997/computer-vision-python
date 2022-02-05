@@ -132,3 +132,7 @@ dmypy.json
 /PoseEstimationProject/PoseVideos
 /FaceDetectionProject/Videos
 /FaceMeshProject/Videos
+/HandTrackingProject/FingerImages/
+/PoseEstimationProject/AiTrainer/AiTrainerSummary.jpg
+/PoseEstimationProject/AiTrainer/curls.mp4
+/PoseEstimationProject/AiTrainer/test.jpg
